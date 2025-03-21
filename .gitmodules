@@ -9,5 +9,5 @@
 	url = https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable
 [submodule "lib/core"]
 	path = lib/core
-  url = https://github.com/gear-tech/symbiotic-core
-  branch = "gear-main"
+	url = https://github.com/gear-tech/symbiotic-core
+	branch = gear-main
