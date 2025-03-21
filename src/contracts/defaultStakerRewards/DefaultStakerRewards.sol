@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity 0.8.25;
+pragma solidity ^0.8.25;
 
 import {IDefaultStakerRewards} from "../../interfaces/defaultStakerRewards/IDefaultStakerRewards.sol";
 import {IStakerRewards} from "../../interfaces/stakerRewards/IStakerRewards.sol";
